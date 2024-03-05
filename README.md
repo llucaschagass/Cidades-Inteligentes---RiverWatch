@@ -32,7 +32,7 @@ O ESP32 é responsável por medir a distância entre o sensor ultrassônico e a 
 
 ## Integração com Servidor Web:
 
-- O sistema pode ser integrado a um servidor web para exibir os dados de altura do rio em tempo real.
+- O sistema pode ser integrado a um servidor web para exibir os dados de altura do rio em tempo real (irá ser implementado ao longo do desenvolvimento).
 - Para isso, é necessário configurar o Arduino Uno (ou outro microcontrolador) para enviar os dados recebidos do ESP32 para o servidor web.
 
 ## Licença:
